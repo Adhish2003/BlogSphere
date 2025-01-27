@@ -51,6 +51,4 @@ This template is inspired by contributions from the web development community. S
 Contact Information
 If you have any questions or feedback, feel free to reach out at adhishadhish001@gmail.com.
 
-License
-This project is licensed under the MIT License.
 
